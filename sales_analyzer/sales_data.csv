@@ -1,0 +1,21 @@
+Order ID,Product,Category,Quantity,Unit Price,City,Order Date
+1001,Laptop,Electronics,2,55000,Bengaluru,2024-01-05
+1002,Desk Chair,Furniture,1,12000,Pune,2024-01-07
+1003,Notebook,Stationery,10,150,Hyderabad,2024-01-08
+1004,Smartphone,Electronics,3,22000,Bengaluru,2024-01-10
+1005,Pen Set,Stationery,25,80,Mumbai,2024-01-12
+1006,Monitor,Electronics,1,18000,Pune,2024-01-15
+1007,Office Table,Furniture,2,25000,Hyderabad,2024-01-18
+1008,Laptop,Electronics,1,55000,Mumbai,2024-01-20
+1009,Notebook,Stationery,50,150,Bengaluru,2024-01-22
+1010,Keyboard,Electronics,4,3500,Pune,2024-01-25
+1011,Desk Chair,Furniture,3,12000,Mumbai,2024-02-01
+1012,Smartphone,Electronics,2,22000,Hyderabad,2024-02-03
+1013,Pen Set,Stationery,100,80,Pune,2024-02-05
+1014,Monitor,Electronics,2,18000,Bengaluru,2024-02-07
+1015,Office Table,Furniture,1,25000,Mumbai,2024-02-10
+1016,Laptop,Electronics,3,55000,Hyderabad,2024-02-12
+1017,Notebook,Stationery,30,150,Pune,2024-02-15
+1018,Keyboard,Electronics,6,3500,Bengaluru,2024-02-18
+1019,Desk Chair,Furniture,2,12000,Hyderabad,2024-02-20
+1020,Smartphone,Electronics,4,22000,Mumbai,2024-02-22
